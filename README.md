@@ -7,5 +7,6 @@ Empty...
 ```
 .
 ├── AndroidUI //here is the android client project 
+├── Common //here are commonly used interfaces/classes
 ├── DesktopUI //here is the desktop client project
 └── Server //here is the server project
