@@ -1,12 +1,11 @@
-# DiceMaster
+# DiceMaster - online dice game
 
-Project for Objecive-Oriented classes in team.
-Empty...
+Project for object-oriented programming classes at AGH UST
 
 ## Project structure
 ```
 .
 ├── AndroidUI //here is the android client project 
-├── Common //here are commonly used interfaces/classes
+├── Common //here are common interfaces and classes
 ├── DesktopUI //here is the desktop client project
-└── Server //here is the server project
+└── Server //here is the server project with bot and game logic modules
